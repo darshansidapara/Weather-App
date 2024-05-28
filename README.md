@@ -32,7 +32,7 @@ This simple weather app allows users to check the current weather of a specific 
 
 ## Live Demo
 
-For a live demo, visit Weather App Demo. 
+For a live demo, visit Weather App Demo.  https://darshansidapara.github.io/Weather-App/
 
 
 
